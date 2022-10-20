@@ -27,6 +27,15 @@ The following guides illustrate how to use some features concretely:
 * [Spring Boot and OAuth2](https://spring.io/guides/tutorials/spring-boot-oauth2/)
 * [Authenticating a User with LDAP](https://spring.io/guides/gs/authenticating-ldap/)
 
+### Main page
+![image](https://user-images.githubusercontent.com/85111590/196998920-87ef21f7-ba51-41ca-a4c3-bb802213f0f0.png)
+
+### Adding a student
+![image](https://user-images.githubusercontent.com/85111590/196999284-74dc3d1c-796d-49c8-8d91-037a3ff52324.png)
+
+### Update student data
+![image](https://user-images.githubusercontent.com/85111590/196999509-23f78413-ad3c-4983-a528-60b355c21c3a.png)
+
 ## Contact me
 - [Instagram](https://www.instagram.com/ogkkk.exe/)
 
@@ -59,6 +68,15 @@ The following guides illustrate how to use some features concretely:
 * [Защита веб-приложения](https://spring.io/guides/gs/securing-web/)
 * [Spring Boot и OAuth2](https://spring.io/guides/tutorials/spring-boot-oauth2/)
 * [Аутентификация пользователя с помощью LDAP](https://spring.io/guides/gs/authenticating-ldap/)
+
+### Главная страница
+![image](https://user-images.githubusercontent.com/85111590/196998920-87ef21f7-ba51-41ca-a4c3-bb802213f0f0.png)
+
+### Добавление студента
+![image](https://user-images.githubusercontent.com/85111590/196999284-74dc3d1c-796d-49c8-8d91-037a3ff52324.png)
+
+### Обновление данных студента
+![image](https://user-images.githubusercontent.com/85111590/196999509-23f78413-ad3c-4983-a528-60b355c21c3a.png)
 
 ## Связь со мной
 - [Instagram](https://www.instagram.com/ogkkk.exe/)
